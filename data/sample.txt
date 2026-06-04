@@ -1,0 +1,38 @@
+Sam Altman co-founded OpenAI.
+Elon Musk co-founded OpenAI.
+OpenAI developed GPT-4.
+GPT-4 powers ChatGPT.
+ChatGPT is used by millions of users worldwide.
+OpenAI developed DALL-E.
+DALL-E generates images from text prompts.
+Microsoft invested 10 billion dollars in OpenAI.
+Microsoft integrated OpenAI technology into Bing.
+
+Bill Gates co-founded Microsoft.
+Paul Allen co-founded Microsoft.
+Microsoft developed Windows.
+Windows is used by over 1 billion people.
+Microsoft acquired GitHub in 2018.
+GitHub is used by millions of developers.
+
+Larry Page co-founded Google.
+Sergey Brin co-founded Google.
+Google developed Android.
+Android powers billions of smartphones.
+Google created TensorFlow.
+TensorFlow is used for machine learning.
+Google acquired YouTube in 2006.
+YouTube is used by over 2 billion users monthly.
+
+Steve Jobs co-founded Apple.
+Steve Wozniak co-founded Apple.
+Apple developed the iPhone.
+The iPhone runs on iOS.
+Apple developed the MacBook.
+The MacBook runs on macOS.
+macOS is based on Unix.
+
+Elon Musk founded Tesla.
+Elon Musk founded SpaceX.
+Tesla develops electric vehicles.
+SpaceX develops reusable rockets.

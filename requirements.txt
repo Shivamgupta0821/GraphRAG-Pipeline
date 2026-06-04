@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+networkx
+python-dotenv
+matplotlib
+pypdf
+streamlit
