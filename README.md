@@ -32,7 +32,7 @@ GraphRAG traverses:
 ChatGPT → powered by → GPT-4
 GPT-4   → developed by → OpenAI
 OpenAI  → invested in by → Microsoft
-Answer: Microsoft ✅
+Answer: Microsoft ✅(in this way by Multihop we can get the answer)
 
 ---
 
